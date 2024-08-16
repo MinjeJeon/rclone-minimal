@@ -1,3 +1,9 @@
+Build command
+```
+CGO_ENABLED=0 go build -ldflags="-s"
+```
+
+
 <div align="center">
 <sup>Special thanks to our sponsor:</sup>
 <br>
